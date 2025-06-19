@@ -118,7 +118,7 @@ def set_alarm(time_str):
         time.sleep(30)
 
 def send_email(to_email, subject, body):
-    sender_email = "your_email@gmail.com"
+    sender_email = "krishnareedydumpa@gmail.com"
     sender_password = "your_password"
     
     msg = EmailMessage()
